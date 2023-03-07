@@ -3,7 +3,7 @@ module github.com/jfrog/jfrog-cli
 go 1.14
 
 require (
-	github.com/buger/jsonparser v0.0.0-20180910192245-6acdf747ae99
+	github.com/buger/jsonparser v1.1.1
 	github.com/codegangsta/cli v1.20.0
 	github.com/frankban/quicktest v1.11.3 // indirect
 	github.com/go-git/go-git/v5 v5.2.0
